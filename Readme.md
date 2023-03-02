@@ -9,7 +9,7 @@
 
      1. Team will use own project name for
     package name
-  
+
 ![](template-files/package_name.png)
 
     2. Copy runners package and paste under project package     
